@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name": "Varun Venkatesh",
+    "occupation": "CEO of PAPA",
+    "description": "Web developer and programmer",
+    "image": "pic.jpg",
+    "bio": "Hi there! I am Varun! I'm a web developer, mainly focused on front-end. I have good experience in MERN stack development. I have completed my bachelor's in computer science and engineering.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "varunvenky99@gmail.com",
+    "phone": "+44 1234567899",
+    "social": [
+  
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/varun-venkatesh-88aa75148/",
+        "className": "fa fa-linkedin"
+      },
+  
+      {
+        "name": "github",
+        "url": "https://github.com/varunvenky99",
+        "className": "fa fa-github"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Visvesvaraya technological university (Vtu)",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Higin Esports",
+        "title": "Full stack engineer intern",
+        "years": "November 2020 - May 2021 ",
+        "description": "Worked on building the company's website. Integrated front-end and back-end, used react JS, redux, redux sagas, tailwindCSS, Material UI and more.. "
+      },
+      {
+        "company": "Tequed Labs",
+        "title": "Technical Content Developer",
+        "years": "June 2020 - August 2020",
+        "description": "I was tasked to make courses on React Js and Javascript which helped students get a deep understanding of the framework/library and programming language. I was also involved in documenting and making sure students understood the concepts well by solving their doubts. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Vlack - A clone of slack",
+        "category": "",
+        "image": "22.png",
+        "url": "https://slack-clone-vlack.web.app/"
+      },
+      {
+        "title": "Crypto prices app",
+        "category": "",
+        "image": "2.png",
+        "url": "https://vcrypto.netlify.app/"
+      },
+      {
+        "title": "Photography portfolio",
+        "category": "",
+        "image": "44.png",
+        "url": "https://apoorvashivaram.netlify.app/"
+      },
+      {
+        "title": "Multi-step form",
+        "category": "",
+        "image": "33.png",
+        "url": "https://reactmultiform.netlify.app"
+      }
+      
+
+    ]
+  }
+ 
+}
